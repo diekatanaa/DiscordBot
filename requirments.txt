@@ -1,0 +1,9 @@
+discord.py
+PyNaCl.py
+youtube_dl
+pillow
+requests
+Также, необходимо установить в C:\Users\darkn\AppData\Local\Programs\Python\Python38\Scripts 3 файла:
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
